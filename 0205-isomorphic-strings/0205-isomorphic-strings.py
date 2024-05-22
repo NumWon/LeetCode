@@ -1,15 +1,17 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
+        s_t = {}
+        t_s = {}
         
-        
-        my_dict = {}
-        
-        for i in range(len(s)):
-            if s[i] not in my_dict:
-                if t[i] not in my_dict.values():
-                    my_dict[s[i]] = t[i]
-                else:
+        for ch_s, ch_t in zip(s, t):
+            if ch_s in s_t:
+                if s_t[ch_s] != ch_t:
                     return False
-            elif my_dict[s[i]] != t[i]:
-                return False
+            else:
+                s_t[ch_s] = ch_t
+            if ch_t in t_s:
+                if t_s[ch_t] != ch_s:
+                    return False
+            else:
+                t_s[ch_t] = ch_s
         return True
