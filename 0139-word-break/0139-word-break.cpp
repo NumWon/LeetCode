@@ -8,8 +8,7 @@ public:
         
         for(int i = 1; i <= n; i++) {
             for(int j = 0; j < i; j++) {
-                string temp = s.substr(j, i-j);
-                if(dp[j] && hash.find(temp) != hash.end())
+                if(dp[j] && hash.find(s.substr(j, i-j)) != hash.end())
                     dp[i] = true;
             }
         }
