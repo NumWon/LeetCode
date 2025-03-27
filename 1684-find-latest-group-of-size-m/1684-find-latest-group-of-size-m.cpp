@@ -42,12 +42,6 @@ public:
             hash2[sum]++;
 
             if(hash2[m] > 0) latest = step;
-
-            // for(const auto& it : hash) {
-            //     cout << "{" << it.first << ", " << it.second << "}\n";
-            // }
-            // cout << "----------\n";
-
         }
 
         return latest;
