@@ -1,8 +1,8 @@
 class Solution {
 public:
     int findLatestStep(vector<int>& arr, int m) {
-        unordered_map<int, int> hash;
-        unordered_map<int, int> hash2;
+        vector<int> hash (arr.size()+1);
+        vector<int> hash2 (arr.size()+1);
         int step = 0;
         int latest = -1;
 
