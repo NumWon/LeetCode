@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-find-latest-group-of-size-m](https://github.com/NumWon/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/NumWon/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NumWon/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Math
+|  |
+| ------- |
+| [2824-check-if-the-number-is-fascinating](https://github.com/NumWon/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 <!---LeetCode Topics End-->
