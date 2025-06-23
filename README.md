@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/NumWon/LeetCode/tree/master/0054-spiral-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NumWon/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0835-linked-list-components](https://github.com/NumWon/LeetCode/tree/master/0835-linked-list-components) |
 | [1684-find-latest-group-of-size-m](https://github.com/NumWon/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 ## Matrix
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0835-linked-list-components](https://github.com/NumWon/LeetCode/tree/master/0835-linked-list-components) |
 | [1684-find-latest-group-of-size-m](https://github.com/NumWon/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/NumWon/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Binary Search
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-check-if-the-number-is-fascinating](https://github.com/NumWon/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
+## Linked List
+|  |
+| ------- |
+| [0835-linked-list-components](https://github.com/NumWon/LeetCode/tree/master/0835-linked-list-components) |
 <!---LeetCode Topics End-->
