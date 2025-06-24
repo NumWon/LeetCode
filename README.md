@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/NumWon/LeetCode/tree/master/0054-spiral-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NumWon/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0624-maximum-distance-in-arrays](https://github.com/NumWon/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0835-linked-list-components](https://github.com/NumWon/LeetCode/tree/master/0835-linked-list-components) |
 | [1684-find-latest-group-of-size-m](https://github.com/NumWon/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 ## Matrix
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NumWon/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0624-maximum-distance-in-arrays](https://github.com/NumWon/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 ## Sorting
 |  |
 | ------- |
