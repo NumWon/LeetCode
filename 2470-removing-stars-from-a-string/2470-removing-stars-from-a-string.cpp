@@ -7,7 +7,6 @@ public:
             else stack.pop();
         }
         int size = stack.size();
-        cout << stack.size();
 
         while(!stack.empty()) {
             s[stack.size()-1] = stack.top();
