@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/NumWon/LeetCode/tree/master/0054-spiral-matrix) |
 | [1684-find-latest-group-of-size-m](https://github.com/NumWon/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
+| [2470-removing-stars-from-a-string](https://github.com/NumWon/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-linked-list-components](https://github.com/NumWon/LeetCode/tree/master/0835-linked-list-components) |
+## String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/NumWon/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/NumWon/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
